@@ -24,7 +24,7 @@
 	border-radius:10px;
 }
 
-.stopwatch .start, .stopwatch .stop, .stopwatch .reset {
+.stopwatch .start, .stopwatch .stop, .stopwatch .reverse, .stopwatch .reset {
 	background:#444;
 	font-family:verdana;
 	font-size:12pt;
@@ -38,6 +38,6 @@
 	width:100px;
 }
 
-.stopwatch .start, .stopwatch .stop {
+.stopwatch .start, .stopwatch .stop, .stopwatch .reverse {
 	margin-right:10px;
 }
