@@ -2,4 +2,4 @@ h1. jQuery Stopwatch
 
 A simple stopwatch plug-in for jQuery-supports multiple stopwatches per page.
 
-I needed a simple stopwatch that would count up and at the press of a button, count down to zero and then count back up again.  It also prints out how many times the countdown was reversed.  Kelli Shaver's stopwatch system was pretty nice and simple and I was able to hack it and add my functionality quickly and easily.
+I needed a simple stopwatch that would count up and at the press of a button, count down to zero and then count back up again.  It also keeps a log of how many times the reverse button has been pressed.

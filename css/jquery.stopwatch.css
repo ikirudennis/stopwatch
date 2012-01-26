@@ -1,5 +1,4 @@
 .stopwatch {
-	width:210px;
 	padding:10px;
 	border:5px solid #444;
 	background:#76c800;
@@ -9,7 +8,6 @@
 }
 
 .stopwatch .display {
-	width:160px;
 	padding:20px;
 	margin-bottom:10px;
 	border:5px solid #444;
@@ -24,7 +22,7 @@
 	border-radius:10px;
 }
 
-.stopwatch .start, .stopwatch .stop, .stopwatch .reverse, .stopwatch .reset {
+.stopwatch #start, .stopwatch #pause, .stopwatch #reverse, .stopwatch #reset {
 	background:#444;
 	font-family:verdana;
 	font-size:12pt;
@@ -38,6 +36,6 @@
 	width:100px;
 }
 
-.stopwatch .start, .stopwatch .stop, .stopwatch .reverse {
+.stopwatch #start, .stopwatch #pause, .stopwatch #reverse {
 	margin-right:10px;
 }
